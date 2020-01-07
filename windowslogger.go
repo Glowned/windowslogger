@@ -4,7 +4,7 @@ import(
 "golang.org/x/sys/windows"
 "syscall"
 "time"
-"github.com/AllenDang/w32"
+"github.com/TheTitanrain/w32"
 "log"
 "strconv"
 "unsafe"
